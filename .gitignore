@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+__pycache__/
+*.tmp
+raw_ig.html
+found_images.json
+ig_downloads/
+ig_meta/
+assets/ig_real/
+assets/real_verified/
+assets/img/
